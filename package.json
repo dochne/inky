@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bufferpack": "^0.0.6",
+    "i2c-bus": "^5.2.2",
+    "jimp": "^0.22.10",
+    "onoff": "^6.0.3",
+    "spi-device": "^3.1.2"
+  }
+}
